@@ -11,9 +11,7 @@ public class ConsDemo1
 	{
 		System.out.println("Main method of ConsDemo1");
 //		ConsDemo1 c=new ConsDemo1();
-int a=10;
-int b= 5;
-int sum=a+b;
+
 
 	}
 
